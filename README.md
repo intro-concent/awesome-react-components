@@ -763,6 +763,7 @@ _Data flow / data management / data stores / components state / data flow_
 - [reselect](https://github.com/reactjs/reselect) - Selector library for Redux.
 - [resourcerer](https://github.com/SiftScience/resourcerer) - Declarative data-fetching framework for REST APIs
 - [shasta](https://github.com/shastajs/shasta) - Dead simple + opinionated toolkit for building redux/react applications.
+- [concent](https://github.com/concentjs/concent) - State management that tailored for react, it is simple, predictable, progressive and efficient.
 
 ### Form Logic
 
